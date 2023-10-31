@@ -1,0 +1,14 @@
+.card-link{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 70px;
+}
+a{
+    background-color:#742844;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 30px 40px;
+}
